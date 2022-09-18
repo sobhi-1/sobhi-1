@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sobhi-1
+- 👋 Hi, I’m Sobhi Mohamed
 - 👀 I’m interested in:- programming
 - 🌱 I’m currently learning:- c++ & java & html & css & js.
 - 💞️ I’m looking to collaborate on:- Front End programmer.
